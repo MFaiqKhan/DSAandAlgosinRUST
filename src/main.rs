@@ -1,7 +1,5 @@
-//mod array2d;
 
-//use array2d::array2d_hourglass;
-
+mod dynamicArray;
 
 fn main() {
     println!("Hello, world!");
